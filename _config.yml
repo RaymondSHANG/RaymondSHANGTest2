@@ -1,4 +1,5 @@
 url: "http://raymondshang.github.io"
+theme: jekyll-theme-leap-day
 markdown: kramdown
 gems:
   - jekyll-redirect-from
